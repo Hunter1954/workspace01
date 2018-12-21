@@ -9,6 +9,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
+/**
+ * 控制转发层
+ * @author Hunter
+ *
+ */
 
 @RestController
 @RequestMapping(value="/hownet")
