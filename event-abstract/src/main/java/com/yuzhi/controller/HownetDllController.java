@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 /**
- * 控制层实现类，主要用作接收和转发请求
+ * 控制层实现类，接收和转发请求
  * @author Hunter
  *
  */
