@@ -10,11 +10,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 /**
- * 控制转发层
+ * 控制层实现类，主要用作接收和转发请求
  * @author Hunter
  *
  */
-
 @RestController
 @RequestMapping(value="/hownet")
 public class HownetDllController {
